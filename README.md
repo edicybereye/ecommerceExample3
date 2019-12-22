@@ -1,6 +1,6 @@
-# training_ecommerce
+# Training Product eCommerce with Flutter Part 4
 
-A new Flutter project.
+Create Category Product and how to handle Json Nested Json on Flutter
 
 ## Getting Started
 
